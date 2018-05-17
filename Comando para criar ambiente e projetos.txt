@@ -1,0 +1,12 @@
+Criando o ambiente
+    
+    Instalar
+        1 - nodejs (baixar do site e instalar)
+        2 - npm install -g typescript 
+        3 - npm install -g @angular/cli
+
+Crinado Projetos com o angular-cli
+    1 - ng new prmiero-projeto-angular-cli
+	2 - ng serve: public o projeto no servidor de aplicação, IIS entre outros, e fornece a URL para testar o app/site.
+	3 - ng g c meu-primeiro2: cria um componente para você utilizar no seu projeto.
+	
